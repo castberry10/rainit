@@ -3,4 +3,5 @@
 
 
 ## 라이선스
-CC BY-NC-ND 4.0 국제 라이선스 하에 라이선스가 부여됩니다. [LICENSE](./LICENSE)
+이 저작물은 CC BY-NC-ND 4.0 국제 라이선스에 따라 이용할 수 있습니다.   
+[LICENSE](./LICENSE)
